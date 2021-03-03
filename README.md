@@ -1,1 +1,1 @@
-# coursera-tensorflow-2
+# coursera-tensorflow-2-Specialization
